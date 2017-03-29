@@ -43,10 +43,6 @@
     "flow": "flow",
     "publish": "npm run build && cd build && npm publish --tag next"
   },
-  "peerDependencies": {
-    "react": "^15.0.0",
-    "react-dom": "^15.0.0"
-  },
   "dependencies": {
     "classnames": "^2.2.5",
     "dom-helpers": "^3.2.1",
