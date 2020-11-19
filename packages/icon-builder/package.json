@@ -23,7 +23,7 @@
   "author": "Hai Nguyen",
   "license": "MIT",
   "dependencies": {
-    "yargs": "^4.3.2"
+    "yargs": "^16.0.0"
   },
   "peerDependencies": {},
   "devDependencies": {
